@@ -1,7 +1,7 @@
 
 # Translink Data - Public Transport Database
 
-This repository contains SQL scripts to create and manage a public transport database using data from [Queensland Government's General Transit Feed Specification (GTFS) - Translink](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-translink/resource/e43b6b9f-fc2b-4630-a7c9-86dd5483552b).
+This repository contains SQL scripts to create and manage a public transport database using data from [Queensland Government's General Transit Feed Specification (GTFS) - Translink](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-translink/resource/e43b6b9f-fc2b-4630-a7c9-86dd5483552b)
 
 ## Overview
 
